@@ -1,0 +1,1 @@
+<?php /* fpdf.php (versión ligera) */ ?>
